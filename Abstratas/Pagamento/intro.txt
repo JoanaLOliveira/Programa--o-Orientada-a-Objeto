@@ -1,0 +1,7 @@
+Construa um aplicativo que pode determinar os pagamentos para funcionários e também faturas segundo o modelo
+Pagavel deve conter um método para obter o valor do pagamento
+Fatura deve conter atributos para o preço do item e a quantidade do item
+Empregado deve ser uma classe abstrata e ter os atributos nome e carteira de trabalho
+EmpregadoAssalariado deve ter um atributo para o valor do seu salário
+Fatura e EmpregadoAssalariado são classes concretas
+Na classe executável, escreva um método que recebe um objeto Pagavel e imprime o custo do pagamento
